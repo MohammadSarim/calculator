@@ -1,0 +1,28 @@
+body{
+    background-color: orange;
+    text-align: center;
+}
+.form{
+    border: 2px solid #000000;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: orange;
+    width: 300px;
+    text-align: center;
+    
+}
+#button{
+    width: 40px;
+}
+#bt{
+    width: 50px;
+}
+#btn{
+    width: 150px;
+    /* padding-bottom: 20px; */
+}
+/* #d{ */
+    /* text-align: left; */
+
+/* } */
+
